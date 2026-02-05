@@ -28,11 +28,12 @@ This project focuses on **real-world React skills** like component architecture,
 
 ## 📸 Screenshots
 
-### 🌞 Light Mode
-![Light Mode Screenshot](./screenshots/light-mode.png)
 
 ### 🌙 Dark Mode
-![Dark Mode Screenshot](./screenshots/dark-mode.png)
+![Dark Mode Screenshot](./src/screenshots/dark-mode.png)
+
+### 🌞 Light Mode
+![Light Mode Screenshot](./src/screenshots/light-mode.png)
 
 
 ---
